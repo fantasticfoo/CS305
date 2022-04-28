@@ -11,8 +11,8 @@ Bee boop bop skee bop
 ### Table of Contents
 
 - [Description](#Description)
-- [Additional Module](#Additional Module)
-- [License](#MIT License)
+- [Additional Module](#Additional)
+- [License](#MIT)
 
 ---
 
