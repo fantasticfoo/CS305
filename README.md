@@ -11,7 +11,6 @@ Bee boop bop skee bop
 ### Table of Contents
 
 - [Description](#description)
-- [How To Use](#how-to-use)
 - [License](#license)
 
 ---
@@ -25,7 +24,3 @@ Not a real project.
 ## MIT License
 [MIT License](LICENSE)
 
-
-
-
-[Back To The Top](#Pac Man)
