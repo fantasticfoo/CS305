@@ -20,28 +20,11 @@ Bee boop bop skee bop
 
 Not a real project.
 
-
-[Back To The Top](#Pac Man)
-
 ---
 
+## MIT License
 
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#Pac Man)
-
-
----
-
-## License
-
-MIT License
+https://github.com/fantasticfoo/CS305/blob/main/LICENSE
 
 
 
