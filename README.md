@@ -24,7 +24,7 @@ Not a real project.
 
 ## MIT License
 
-LICENSE
+https://github.com/fantasticfoo/CS305/blob/8894313ac58eeb581568c7b87c53f42f517887db/LICENSE
 
 
 
