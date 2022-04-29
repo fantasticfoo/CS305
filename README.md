@@ -10,9 +10,10 @@ Bee boop bop skee bop
 
 ### Table of Contents
 
-- [Description](#Description)
-- [Additional Module](#Additional)
-- [License](#MIT)
+- Description
+- Additional Module
+- Another Additional Module
+- License
 
 ---
 
@@ -23,6 +24,10 @@ Not a real project.
 ## Additional Module
 
 Not a real module.
+
+## Another Additional Module
+
+This one IS a real module! ...In your imagination, anyways.
 
 ---
 
